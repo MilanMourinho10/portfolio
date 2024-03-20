@@ -1,16 +1,24 @@
 .contactTitle{
    text-align: center;
-   color: aqua;
+   color: #fff;
+
 }
 
 .contactInfo{
-   
+   padding: 40px;
+   text-align: center;   
 }
 
 .contactMail{
-
+   text-align: center;
+   border:3px solid #fff;
+   padding: 20px;
+   font-size: large;
 }
 
 .contactTel{
+   text-align: center;
+   font-size: large;
+   border: 3px solid #fff;
 
 }
