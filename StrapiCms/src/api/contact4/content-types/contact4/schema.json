@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "contact4s",
+  "info": {
+    "singularName": "contact4",
+    "pluralName": "contact4s",
+    "displayName": "contact",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contactHeader": {
+      "type": "string"
+    },
+    "contactText": {
+      "type": "text"
+    },
+    "contactEmail": {
+      "type": "email"
+    },
+    "contactTel": {
+      "type": "integer"
+    }
+  }
+}

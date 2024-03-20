@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "introductions",
+  "info": {
+    "singularName": "introduction",
+    "pluralName": "introductions",
+    "displayName": "introduction"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Introheader": {
+      "type": "string"
+    },
+    "Introtext": {
+      "type": "text"
+    }
+  }
+}
